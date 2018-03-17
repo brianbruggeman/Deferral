@@ -15,3 +15,10 @@ The following dependencies are required before font-viewer can run.
 You should run inside of a virtual environment.  Then run:
 
     $ pip install -r requirements.txt
+
+# Running
+
+From the commandline, simply run:
+    
+    $ python scripts/font-viewer.py
+    
